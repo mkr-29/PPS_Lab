@@ -1,0 +1,2 @@
+Exercise No.2: Write a function to find the area and perimeter of triangle, which receives the values of 3 sides of triangle  and area and perimeter from main(). 
+Calculate the area and perimeter which is printed through main().
