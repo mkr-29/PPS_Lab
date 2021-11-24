@@ -1,0 +1,1 @@
+Check and print if the number inputted by user is even or odd.
