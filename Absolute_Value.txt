@@ -1,0 +1,1 @@
+ A function called abs_val that returns int and takes an int argument. It returns the absolute value of its argument, by negating it if it is negative.
