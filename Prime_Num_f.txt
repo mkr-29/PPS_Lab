@@ -1,0 +1,1 @@
+Write a C function that takes a positive integer n as an argument and returns 0 if n is prime, and 1 otherwise. 
