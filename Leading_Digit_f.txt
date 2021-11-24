@@ -1,0 +1,1 @@
+Write a function that takes a positive integer as input and returns the leading digit in its decimal representation. For example, the leading digit of 234567 is 2. 
