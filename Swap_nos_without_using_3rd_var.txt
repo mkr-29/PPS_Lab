@@ -1,0 +1,1 @@
+Swap 2 nos without using the 3rd variable.
