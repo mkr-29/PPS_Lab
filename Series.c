@@ -13,7 +13,7 @@ float series(int a, int b){
         sum=sum+pow(a,i)/fact;
     }
     return sum;
-}
+}//just dont copy and paste... change it as you may like...
 int main(){
     int p,q;
     printf("Enter a No.:");
