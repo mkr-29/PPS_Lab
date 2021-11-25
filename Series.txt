@@ -1,0 +1,2 @@
+Write a function to evaluate the following series:
+Sum=x + (x * x)/2! + (x * x* x* x)/4! + x6/6! + ……..xn/n!
